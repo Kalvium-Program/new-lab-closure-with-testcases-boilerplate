@@ -16,10 +16,9 @@ create a global scoped constant `NEG_INF` with -1000000 value, and a function `c
 
 ### Progression 2: 
 
-add 3 variables to `createPop()` : title, currIndex, check
-1. title -> it holds the value of `h3` element. (you have to create h3 tag and store it in title variable)
-2. currIndex -> assign `NEG_INF` to this variable
-3. check -> assign `false` to this variable
+add 2 variables to `createPop()` : currIndex, check
+1. currIndex -> assign `NEG_INF` to this variable
+2. check -> assign `false` to this variable
 
 ### Progression 3: 
 
